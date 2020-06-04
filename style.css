@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,600,700|Poppins:300,400,400i,600,700|Roboto:300,400,400i,700|Ubuntu:300,400,400i,700&display=swap');
 
 body {
-    background-color: #faaa20;
+    background-color: #021E73;
     font-family: 'poppins';
 }
 
@@ -46,17 +46,17 @@ li {
 }
 
 .nav2 {
-    background-color: #ef4a1d;
+    background-color: #0A0EF0;
     border-radius: 50px;
     box-shadow: 0px 7px 47px -20px rgba(0, 0, 0, 0.75);
 }
 
 .navli {
-    color: white;
+    color: #F2F2F2;
 }
 
 .atas {
-    margin-top: 81px;
+    margin-top: 88px;
 }
 
 .form-control {
@@ -72,8 +72,8 @@ li {
 
 .postingan {
     border-radius: 30px;
-    background-color: #ef4a1d;
-    color: white;
+    background-color: #040BDB;
+    color: #F2F2F2;
     font-size: small;
 }
 
@@ -96,7 +96,7 @@ li {
     font-size: medium;
     color: black;
     text-align: center;
-    background-color: yellow;
+    background-color: white;
 
 }
 
