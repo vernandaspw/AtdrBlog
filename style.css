@@ -74,13 +74,38 @@ li {
     border-radius: 30px;
     background-color: #ef4a1d;
     color: white;
+    font-size: small;
 }
 
 .gambarpos {
-    width: 220px;
-    height: 200px;
+    width: 260px;
+    height: 150px;
 }
 
 .judulpos {
     font-weight: bold;
 }
+
+.gambarnews {
+    margin-left: 20px;
+    width: 150px;
+    height: 88px;
+}
+
+.judulart {
+    font-size: medium;
+    color: black;
+    text-align: center;
+    background-color: yellow;
+
+}
+
+.art {
+    border-radius: 30px;
+}
+
+.judulpart {
+    font-weight: normal;
+}
+
+.inpuut {}
