@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,600,700|Poppins:300,400,400i,600,700|Roboto:300,400,400i,700|Ubuntu:300,400,400i,700&display=swap');
-
 body {
-    background-color: #021E73;
+    background-color: white;
     font-family: 'poppins';
 }
 
@@ -10,7 +9,6 @@ body {
     margin: auto;
     width: 1200px;
     height: 250px;
-
 }
 
 .carousel {
@@ -29,24 +27,22 @@ body {
 }
 
 .nav-link:hover {
-    background-color: #faaa20;
+    background-color: #08AEEA;
     border-radius: 100px;
 }
 
 .aktif {
     font-weight: bold;
-    background-color: #faaa20;
+    background-color: #08AEEA;
     border-radius: 100px;
 }
-
-
 
 li {
     margin: 3px;
 }
 
 .nav2 {
-    background-color: #0A0EF0;
+    background-color: #2AF598;
     border-radius: 50px;
     box-shadow: 0px 7px 47px -20px rgba(0, 0, 0, 0.75);
 }
@@ -72,13 +68,13 @@ li {
 
 .postingan {
     border-radius: 30px;
-    background-color: #040BDB;
-    color: #F2F2F2;
+    background-color: #2BFF88;
+    color: black;
     font-size: small;
 }
 
 .gambarpos {
-    width: 260px;
+    width: 300px;
     height: 150px;
 }
 
@@ -94,10 +90,9 @@ li {
 
 .judulart {
     font-size: medium;
-    color: black;
+    color: white;
     text-align: center;
-    background-color: white;
-
+    background-color: #08AEEA;
 }
 
 .art {
@@ -106,7 +101,7 @@ li {
 
 .judulpart {
     font-weight: normal;
-    color: white;
+    color: black;
     font-size: small;
 }
 
